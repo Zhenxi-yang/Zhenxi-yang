@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning swift.
 - 💞️ I’m looking to collaborate on 😀😀😀
 - 📫 How to reach me 📱🇨🇳18080253005
+- 🎒 I’m a student of 绵阳东辰国际学校
 
 <!---
 Zhenxi-yang/Zhenxi-yang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
