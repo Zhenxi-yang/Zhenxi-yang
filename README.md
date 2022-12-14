@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zhenxi-yang
+- 👋 Hi, I’m 杨震曦
 - 👀 I’m interested in study
 - 🌱 I’m currently learning swift.
 - 💞️ I’m looking to collaborate on 😀😀😀
